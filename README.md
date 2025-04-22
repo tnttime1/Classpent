@@ -1,5 +1,6 @@
 # Classpent
- A tf 2 like game with many weapons, class, aspect and classpect abilities. (should work on title later)
+ A team based FPS based on the Classpect system seen in the webcomic, Homestuck.
+ Homestuck belongs to Andrew Hussie. Our fangame is non profit.
  made by: tnttime1, stereo-sick, PrimorDialdoom
 
 ## Current Features
